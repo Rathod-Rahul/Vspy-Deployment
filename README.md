@@ -41,8 +41,41 @@ Note: If using XAMPP, the default root user with an empty password and port 3306
 5. Start the application:
 6. ```bash
      npm start
-
- 
 7. Open your web browser and visit http://localhost:3000 to access the Vspy dashboard.
+
+# Features of Vspy Keylogger 🌟
+
+## 1. Password Harvesting Module 🔐
+
+- Easily retrieve and manage stored passwords from Google Chrome, making it simpler to access and organize login credentials.
+
+## 2. Cookie Surveillance Engine 🍪
+
+- Safeguard your online accounts by capturing and securely logging Chrome cookies, ensuring a secure and hassle-free online experience.
+
+## 3. Real-time Keystroke Logger ⌨️
+
+- Monitor and record keystrokes in real-time, providing insights into user behavior without compromising data privacy.
+
+## 4. Clipboard Data Interceptor 📋
+
+- Retrieve clipboard content in real-time, streamlining workflows and enabling quick access to copied information.
+
+## 5. Location Intelligence Module 🌐
+
+- Facilitate targeted actions and monitor movements responsibly with location information features.
+
+## 6. Browser History Scraper 🕵️‍♀️
+
+- Easily review and analyze your entire browsing history, gaining insights into online activities and preferences.
+
+## 7. Application Tracking System 📊
+
+- Understand your software usage patterns by identifying and logging all running applications on your computer.
+
+## 8. Download Surveillance Module 📥
+
+- Track recent downloads, empowering you to manage acquired files and stay vigilant against potential security threats.
+
 
 
