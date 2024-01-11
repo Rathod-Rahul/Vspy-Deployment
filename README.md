@@ -4,9 +4,12 @@
 
 Welcome to Vspy, a demonstration keylogger built for educational purposes. This tool showcases keylogging functionalities and is intended solely for ethical and educational use. Please read this README file carefully before deploying the application.
 
-### GitHub Repository 🌐
+### Vspy Live Demo Link 🌐
 
-Visit our GitHub repository for the latest updates and source code: [Vspy GitHub](https://github.com/Rathod-Rahul/Vspy-Deployment.git)
+Explore the live demo of Vspy by visiting [Vspy Live Demo](https://vspy.onrender.com/register).
+
+**Note:** Due to limitations of the MySQL database used for free development, certain features on the live demo might not work optimally. For a full experience, it's recommended to deploy the application locally or on a more robust server.
+
 
 ### Prerequisites 🛠️
 
