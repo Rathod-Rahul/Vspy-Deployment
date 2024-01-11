@@ -78,60 +78,117 @@ Note: If using XAMPP, the default root user with an empty password and port 3306
 ## Vspy Node.js Backend Dashboard Quick Guide 🚀
 
 
-## Step 1: Create Account in Vspy Dashboard 📝
+### Step 1: Create Account in Vspy Dashboard 📝
 
 - Visit the Vspy dashboard and click on the "Sign Up" button.
 - Fill in the required information to create your account.
   
   ![Screenshot: Sign Up](screenshots/signup.png)
 
-## Step 2: Login to Vspy Dashboard 🔑
+### Step 2: Login to Vspy Dashboard 🔑
 
 - Use your credentials to log in to the Vspy dashboard.
   
   ![Screenshot: Login](screenshots/login.png)
 
-## Step 3: View All Data on Dashboard 📊
+### Step 3: View All Data on Dashboard 📊
 
 - After logging in, explore the dashboard to view various features and collected data.
   
   ![Screenshot: Dashboard Overview](screenshots/dashboard.png)
 
-## Step 4: Add Device for Python Keylogger Code 🖥️
+### Step 4: Add Device for Python Keylogger Code 🖥️
 
 - Navigate to the "Devices" section.
 - Click on "Add Device" and follow the instructions to add a new device.
   
   ![Screenshot: Add Device](screenshots/add_device.png)
 
-## Step 5: Download Python Keylogger Code 🐍
+### Step 5: Download Python Keylogger Code 🐍
 
 - From the dashboard, click on the device name.
 - A model will open, providing a download link for the Python keylogger code.
   
   ![Screenshot: Download Code](screenshots/download_code.png)
 
-## Step 6: Modify Python Code for Database Configuration 🛠️
+### Step 6: Modify Python Code for Database Configuration 🛠️
 
 - Open the downloaded Python keylogger code.
 - Configure the database settings in the Python code to match the ones in the `.env` file.
 - Add a note emphasizing that both database configurations must be the same.
   
-  ![Screenshot: Python Code](screenshots/python_code.png)
 
-## Step 7: Install Python on Demo PC/Laptop and Run Keylogger Script 🚀
+
+### Step 7: Install Python on Demo PC/Laptop and Run Keylogger Script 🚀
 
 - Install Python on the demo PC or laptop.
 - Run the modified Python keylogger script to extract information.
   
-  ![Screenshot: Python Keylogger Running](screenshots/keylogger_running.png)
 
-## Step 8: View Collected Information on Dashboard 📈
+
+### Step 8: View Collected Information on Dashboard 📈
 
 - Return to the Vspy dashboard to view the collected information from the demo PC or laptop.
 - Explore different sections to see passwords, keystrokes, clipboard content, etc.
   
-  ![Screenshot: Collected Information](screenshots/collected_info.png)
+
+#### 1. Chrome Passwords
+
+- View and manage stored passwords from the Google Chrome browser.
+
+  ![Screenshot: Chrome Passwords](screenshots/chrome_pass_info.png)
+
+#### 2. Cookie Surveillance
+
+- Safeguard your online accounts by monitoring and logging Chrome cookies.
+
+  ![Screenshot: Cookie Surveillance](screenshots/cookie_info.png)
+
+#### 3. Keystrokes
+
+- Monitor and record real-time keystrokes, providing insights into user behavior.
+
+  ![Screenshot: Keystrokes](screenshots/keystrokes_info.png)
+
+#### 4. Clipboard
+
+- Retrieve clipboard content in real-time, streamlining workflows.
+
+  ![Screenshot: Clipboard](screenshots/clipboard_info.png)
+
+#### 5. Location Information
+
+- Gather and report the user's location information.
+
+  ![Screenshot: Location Information](screenshots/location_info.png)
+
+#### 6. Browser History
+
+- Log the user's entire browsing history for insights into online activities.
+
+  ![Screenshot: Browser History](screenshots/browser_history_info.png)
+
+#### 7. Applications Information
+
+- Identify and log all running applications on the user's computer.
+
+  ![Screenshot: Applications](screenshots/applications_info.png)
+
+#### 8. System Information
+
+- Access information about the user's system for a comprehensive overview.
+
+  ![Screenshot: System Information](screenshots/system_info.png)
+
+#### 9. Recent Downloads
+
+- Provide detailed information on recent downloads.
+
+  ![Screenshot: Recent Downloads](screenshots/recent_downloads_info.png)
+
+
+
+
 
 ## Disclaimer ⚠️
 
