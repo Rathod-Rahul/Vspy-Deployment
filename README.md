@@ -2,55 +2,26 @@
 
 ## Overview 🎯
 
-Welcome to Vspy, a powerful Windows-based keylogger designed for advanced surveillance purposes. Please read this README file carefully before using the tool.
+Welcome to Vspy, a demonstration keylogger built for educational purposes. This tool showcases keylogging functionalities and is intended solely for ethical and educational use. Please read this README file carefully before deploying the application.
 
-## Main Features 🚀
+## GitHub Repository 🌐
 
-### 1. Password Harvesting Module 🔐
+Visit our GitHub repository for the latest updates and source code: [Vspy GitHub](https://github.com/Rathod-Rahul/Vspy-Deployment.git)
 
-   - Extracts all stored passwords from the Google Chrome browser, providing a comprehensive overview of the user's login credentials.
+## Prerequisites 🛠️
 
-### 2. Cookie Surveillance Engine 🍪
+- Node.js installed
+- XAMPP or a local server for the database
 
-   - Captures and logs Chrome cookies, enabling unauthorized access to the user's online accounts and sessions.
+## Installation 🚀
 
-### 3. Real-time Keystroke Logger ⌨️
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Rathod-Rahul/Vspy-Deployment.git
+2. ```bash
+   cd Vspy-Deployment
+3. ```bash
+   npm install
+4. Configure the database:
 
-   - Monitors and records every keystroke in real-time, providing valuable insights into user behavior and confidential data input.
-
-### 4. Clipboard Data Interceptor 📋
-
-   - Retrieves clipboard content in real-time, exposing sensitive information copied by the user.
-
-### 5. Location Intelligence Module 🌐
-
-   - Gathers and reports the user's location information, facilitating targeted actions or monitoring their movements.
-
-### 6. Browser History Scraper 🕵️‍♀️
-
-   - Logs the user's entire browsing history, offering a comprehensive view of their online activities and preferences.
-
-### 7. Application Tracking System 📊
-
-   - Identifies and logs all running applications on the user's computer, aiding in understanding their software usage patterns.
-
-### 8. Download Surveillance Module 📥
-
-   - Provides detailed information on recent downloads, enabling the user to track acquired files and potential security threats.
-
-## Disclaimer ⚠️
-
-Usage of this tool for unauthorized access or any illegal activities is strictly prohibited. The creator assumes no responsibility for the consequences of its deployment and strongly advises users to adhere to local laws and ethical guidelines.
-
-## Getting Started 🚀
-
-1. Clone the repository.
-2. Install the necessary dependencies.
-3. Run the Vspy executable.
-4. Follow on-screen instructions for configuration.
-
-## Support and Issues 🤝
-
-For any questions, concerns, or bug reports, please open an issue on our [GitHub repository](https://github.com/Vspy-Keylogger).
-
-Happy spying! 🕵️‍♂️
+Set up a local server or use XAMPP.
