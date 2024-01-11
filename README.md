@@ -190,13 +190,13 @@ Note: If using XAMPP, the default root user with an empty password and port 3306
 
 
 
-## Disclaimer ⚠️
 
-This tool is for educational purposes only. Ensure compliance with local laws and ethical standards. The creator assumes no responsibility for any misuse or unauthorized access.
 
 ### 8. Download Surveillance Module 📥
 
 - Track recent downloads, empowering you to manage acquired files and stay vigilant against potential security threats.
 
 
+# Disclaimer ⚠️
 
+This tool is for educational purposes only. Ensure compliance with local laws and ethical standards. The creator assumes no responsibility for any misuse or unauthorized access.
