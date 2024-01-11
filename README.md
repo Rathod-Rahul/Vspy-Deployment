@@ -34,9 +34,12 @@ Visit our GitHub repository for the latest updates and source code: [Vspy GitHub
 - **SESSION_LIFETIME:** [Session Lifetime in milliseconds]
 - **EMAIL_ADDRESS:** [Your Email Address]
 - **EMAIL_PASSWORD:** [Your Email Password]
+- 
+<span style="color:red">Note: If using XAMPP, the default root user with an empty password and port 3306 is assumed. Ensure you create the main_log database and a users table with columns: id, username, password, email, and reset_token.</span>
 
-Note: If using XAMPP, the default root user with an empty password and port 3306 is assumed. Ensure you create the main_log database and a users table with columns: id, username, password, email, and reset_token.
-5.Start the application: npm start
-6. Open your web browser and visit http://localhost:3000 to access the Vspy dashboard.
+
+ 5.Start the application: npm start
+ 
+ 6. Open your web browser and visit http://localhost:3000 to access the Vspy dashboard.
 
 
