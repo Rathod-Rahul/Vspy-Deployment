@@ -290,7 +290,7 @@ async function forgotPassword(req, res) {
     await queryDb(updateTokenQuery, [token, user[0].id]);
 
     // Send the reset link to the user's email
-    const resetLink = `http://localhost:3000/reset/${token}`;
+    const resetLink = `https://vspy.onrender.com/reset/${token}`;
     sendResetEmail(email, resetLink);
 
     // Flash a success message
