@@ -39,7 +39,8 @@ Note: If using XAMPP, the default root user with an empty password and port 3306
 
 
 5. Start the application:
-   ```bash npm start
+6. ```bash
+     npm start
 
  
 7. Open your web browser and visit http://localhost:3000 to access the Vspy dashboard.
