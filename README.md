@@ -77,54 +77,63 @@ Note: If using XAMPP, the default root user with an empty password and port 3306
 
 ## Vspy Node.js Backend Dashboard Quick Guide 🚀
 
-### Step 1: Create Account in Vspy Dashboard 📝
+
+## Step 1: Create Account in Vspy Dashboard 📝
 
 - Visit the Vspy dashboard and click on the "Sign Up" button.
 - Fill in the required information to create your account.
-- ![Screenshot: Sign Up](/path/to/signup-screenshot.png)
+  
+  ![Screenshot: Sign Up](screenshots/signup.png)
 
-### Step 2: Login to Vspy Dashboard 🔑
+## Step 2: Login to Vspy Dashboard 🔑
 
 - Use your credentials to log in to the Vspy dashboard.
-- ![Screenshot: Login](/path/to/login-screenshot.png)
+  
+  ![Screenshot: Login](screenshots/login.png)
 
-### Step 3: View All Data on Dashboard 📊
+## Step 3: View All Data on Dashboard 📊
 
 - After logging in, explore the dashboard to view various features and collected data.
-- ![Screenshot: Dashboard Overview](/path/to/dashboard-screenshot.png)
+  
+  ![Screenshot: Dashboard Overview](screenshots/dashboard.png)
 
-### Step 4: Add Device for Python Keylogger Code 🖥️
+## Step 4: Add Device for Python Keylogger Code 🖥️
 
 - Navigate to the "Devices" section.
 - Click on "Add Device" and follow the instructions to add a new device.
-- ![Screenshot: Add Device](/path/to/add-device-screenshot.png)
+  
+  ![Screenshot: Add Device](screenshots/add_device.png)
 
-### Step 5: Download Python Keylogger Code 🐍
+## Step 5: Download Python Keylogger Code 🐍
 
 - From the dashboard, click on the device name.
 - A model will open, providing a download link for the Python keylogger code.
-- ![Screenshot: Download Code](/path/to/download-code-screenshot.png)
+  
+  ![Screenshot: Download Code](screenshots/download_code.png)
 
-### Step 6: Modify Python Code for Database Configuration 🛠️
+## Step 6: Modify Python Code for Database Configuration 🛠️
 
 - Open the downloaded Python keylogger code.
 - Configure the database settings in the Python code to match the ones in the `.env` file.
 - Add a note emphasizing that both database configurations must be the same.
-- ![Screenshot: Python Code](/path/to/python-code-screenshot.png)
+  
+  ![Screenshot: Python Code](screenshots/python_code.png)
 
-### Step 7: Install Python on Demo PC/Laptop and Run Keylogger Script 🚀
+## Step 7: Install Python on Demo PC/Laptop and Run Keylogger Script 🚀
 
 - Install Python on the demo PC or laptop.
 - Run the modified Python keylogger script to extract information.
-- ![Screenshot: Python Keylogger Running](/path/to/python-keylogger-running-screenshot.png)
+  
+  ![Screenshot: Python Keylogger Running](screenshots/keylogger_running.png)
 
-### Step 8: View Collected Information on Dashboard 📈
+## Step 8: View Collected Information on Dashboard 📈
 
 - Return to the Vspy dashboard to view the collected information from the demo PC or laptop.
 - Explore different sections to see passwords, keystrokes, clipboard content, etc.
-- ![Screenshot: Collected Information](/path/to/collected-info-screenshot.png)
+  
+  ![Screenshot: Collected Information](screenshots/collected_info.png)
 
-### Disclaimer ⚠️
+## Disclaimer ⚠️
 
 This tool is for educational purposes only. Ensure compliance with local laws and ethical standards. The creator assumes no responsibility for any misuse or unauthorized access.
 
